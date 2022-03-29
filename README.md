@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
  ✍ I'm a student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
 
-🌱 I’m currently learning ***Front-End***
+🌱 I’m currently learning ***Front-End Web Development***
 
 
 ## 📫 How to reach me:
