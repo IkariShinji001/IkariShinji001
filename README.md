@@ -20,12 +20,13 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-css-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://icons8.com/icon/dzfo6UeXW9h7/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
  <img src="https://img.icons8.com/color/48/FFFFFF/git.png"/>
 </p>
 
