@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://icons8.com/icon/dzfo6UeXW9h7/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications"/>
  <img src="https://img.icons8.com/color/48/FFFFFF/git.png"/>
 </p>
 
